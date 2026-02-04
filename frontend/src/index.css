@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply w-full px-4 py-2 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+/* Import Lexend Exa once, globally */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@400;600;700&display=swap');
+
+/* ✅ Global font: all pages now match */
+:root, body, #root {
+  font-family: 'Lexend Exa', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* (Optional) keep the helper class if you want */
+.font-lexend { font-family: 'Lexend Exa', sans-serif; }
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Grain effect */
+.grain {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48ZmlsdGVyIGlkPSJncmFpbiI+PGZlVHVyYnVsZW5jZSB0eXBlPSJyYW5kb20iIGJhc2VGcmVxdWVuY3k9IjAuOSIvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWx0ZXI9InVybCgjZ3JhaW4pIi8+PC9zdmc+");
+  background-repeat: repeat;
+  opacity: 0.1; /* adjust strength */
+}
+.blur-text {
+  filter: blur(0.2rem); /* ~20% blur effect */
+}
+
+/* Import font */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
+
+input::placeholder,
+textarea::placeholder {
+  font-family: 'Lexend Exa', sans-serif;
+  color: #999; /* light grey */
+}
