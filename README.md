@@ -57,7 +57,20 @@ Three-tier architecture:
 #### 1.UserTypeSelectionPage<img width="1908" height="920" alt="Screenshot 2026-02-04 183553" src="https://github.com/user-attachments/assets/ffecfa5a-6332-47c5-b6f2-e550d9db4c5b" />
 #### 2.LoginPage<img width="1887" height="900" alt="Screenshot 2025-12-17 155352" src="https://github.com/user-attachments/assets/ef347743-5464-43b8-b862-2513e44b61b9" /><img width="1907" height="913" alt="Screenshot 2026-02-05 132856" src="https://github.com/user-attachments/assets/31b16936-6e0b-42e7-81fe-c360fe506987" />
 #### 3.UserHomePage<img width="1877" height="902" alt="Screenshot 2025-12-17 155506" src="https://github.com/user-attachments/assets/b88a8ced-3937-42c7-b611-ccf092de9980" />
-#### 4.MechanicHomePage<img width="1883" height="912" alt="Screenshot 2026-02-05 133546" src="https://github.com/user-attachments/assets/c995b51a-8d06-47f1-aba6-aae9ead4db8f" />
+#### 4.BreakdownToken <img width="1874" height="896" alt="Screenshot 2026-02-05 140804" src="https://github.com/user-attachments/assets/599266eb-761e-4baf-827e-0d7cb04a98e9" />
+#### 5.BookTheMechanic<img width="1905" height="915" alt="Screenshot 2026-02-05 140245" src="https://github.com/user-attachments/assets/0945cbe5-46ec-4629-b783-aeb682a8a0d5" />
+#### 6.ServiceHistory<img width="1901" height="906" alt="Screenshot 2026-02-05 140433" src="https://github.com/user-attachments/assets/4da4152d-6b01-437c-a552-6bf37bbae246" />
+#### 7.VehicleHealth&Alert <img width="1902" height="911" alt="Screenshot 2026-02-05 140530" src="https://github.com/user-attachments/assets/e2acce36-6ef3-4459-a28d-9a7d6029bc9c" />
+#### 8.SymptomAdvisor <img width="1907" height="907" alt="Screenshot 2026-02-05 140634" src="https://github.com/user-attachments/assets/9880de55-6963-4058-942d-18e1f4ead2aa" />
+#### 9.MechanicHomePage<img width="1883" height="912" alt="Screenshot 2026-02-05 133546" src="https://github.com/user-attachments/assets/c995b51a-8d06-47f1-aba6-aae9ead4db8f" />
+#### 10.Ratings&BreakdownRequest <img width="1862" height="776" alt="Screenshot 2026-02-05 141154" src="https://github.com/user-attachments/assets/d4fbd672-ee85-4895-bb88-05d507a4ee39" />
+#### 11.AssignedJobs&UpcomingBookings <img width="1883" height="894" alt="Screenshot 2026-02-05 141718" src="https://github.com/user-attachments/assets/eedbe9b0-9fca-4ce9-a008-fd62d7032bda" />
+#### 12.SetSchedule <img width="1883" height="905" alt="Screenshot 2026-02-05 141845" src="https://github.com/user-attachments/assets/ab5f7d52-3f8d-4d5c-9ac2-53a911fed09c" />
+#### 13.Rating&Feedback <img width="1886" height="910" alt="Screenshot 2026-02-05 142028" src="https://github.com/user-attachments/assets/bd8f3bd0-6294-4f92-b65f-26c3da3483b0" />
+
+
+
+
 
 
 
