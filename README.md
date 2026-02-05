@@ -55,6 +55,15 @@ Three-tier architecture:
 ## **Screenshot**
 
 #### 1.UserTypeSelectionPage<img width="1908" height="920" alt="Screenshot 2026-02-04 183553" src="https://github.com/user-attachments/assets/ffecfa5a-6332-47c5-b6f2-e550d9db4c5b" />
+#### 2.LoginPage<img width="1887" height="900" alt="Screenshot 2025-12-17 155352" src="https://github.com/user-attachments/assets/ef347743-5464-43b8-b862-2513e44b61b9" /><img width="1907" height="913" alt="Screenshot 2026-02-05 132856" src="https://github.com/user-attachments/assets/31b16936-6e0b-42e7-81fe-c360fe506987" />
+#### 3.UserHomePage<img width="1877" height="902" alt="Screenshot 2025-12-17 155506" src="https://github.com/user-attachments/assets/b88a8ced-3937-42c7-b611-ccf092de9980" />
+#### 4.MechanicHomePage<img width="1883" height="912" alt="Screenshot 2026-02-05 133546" src="https://github.com/user-attachments/assets/c995b51a-8d06-47f1-aba6-aae9ead4db8f" />
+
+
+
+
+
+
 
 
 
